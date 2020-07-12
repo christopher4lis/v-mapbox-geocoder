@@ -1,5 +1,5 @@
 {
-  "name": "@christopher4lis/v-mapbox-geocoder",
+  "name": "v-mapbox-geocoder-upgraded",
   "version": "0.2.1",
   "description": "Geocoder plugin for VMapbox",
   "repository": {

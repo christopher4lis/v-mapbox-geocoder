@@ -1,10 +1,10 @@
 {
-  "name": "@geospoc/v-mapbox-geocoder",
+  "name": "@christopher4lis/v-mapbox-geocoder",
   "version": "0.2.1",
   "description": "Geocoder plugin for VMapbox",
   "repository": {
     "type": "git",
-    "url": "git@github.com:geospoc/v-mapbox-geocoder.git"
+    "url": "git@github.com:christopher4lis/v-mapbox-geocoder.git"
   },
   "author": {
     "name": "GeoSpoc",

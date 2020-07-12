@@ -1,26 +1,7 @@
 {
   "name": "v-mapbox-geocoder-upgraded",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "description": "Geocoder plugin for VMapbox",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:christopher4lis/v-mapbox-geocoder.git"
-  },
-  "author": {
-    "name": "GeoSpoc",
-    "email": "developers@geospoc.com",
-    "url": "https://geospoc.com"
-  },
-  "contributors": [
-    {
-      "name": "Vinayak Kulkarni",
-      "email": "inbox.vinayak@gmail.com",
-      "url": "https://vinayakkulkarni.dev"
-    }
-  ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "license": "MIT",
   "private": false,
   "main": "dist/v-mapbox-geocoder.cjs.js",
